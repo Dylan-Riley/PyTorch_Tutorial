@@ -1,1 +1,1 @@
-Init
+Does not include CIFAR10 data downloaded or saved model from training_a_classifier.py
